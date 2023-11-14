@@ -21,6 +21,6 @@ It mainly includes related problem consultation system, annuity and pension tria
 
 #### Recommended long-term care system：
 <div style="display:inline-block">
-  <img width="243" alt="image" src="https://user-images.githubusercontent.com/112559944/187951429-bccfc6a4-80ef-45c1-9538-1c4dc450f929.png">
+  <img width="253" alt="image" src="https://user-images.githubusercontent.com/112559944/187951429-bccfc6a4-80ef-45c1-9538-1c4dc450f929.png">
   <img width="253" alt="image" src="https://user-images.githubusercontent.com/112559944/187951451-e7f9985d-4dec-48a1-a254-95275110c9c1.png">
 </div>
